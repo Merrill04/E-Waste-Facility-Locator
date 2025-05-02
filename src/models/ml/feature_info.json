@@ -1,0 +1,1 @@
+{"numerical_cols": ["Age (years)", "Price (INR)", "Depreciation Factor (%)", "Environmental Impact Rating", "Recycling Process Complexity"], "categorical_cols": ["Category", "Current State", "Ownership Type", "Material Composition"]}
