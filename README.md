@@ -6,6 +6,12 @@ An intelligent web application designed to promote responsible e-waste disposal 
 
 ---
 
+## 🌐 Demo
+
+**Live Demo:** https://drive.google.com/file/d/1txYQe-9fdneTsKxrTRHFISRlT5DCxqn9/view?usp=sharing
+
+---
+
 ## 🚀 Setup Guide
 
 ### Prerequisites
@@ -119,11 +125,5 @@ npm start
 - **JWT:** jsonwebtoken
 - **HTTP Client:** Axios
 - **Cookie Management:** js-cookie
-
----
-
-## 🌐 Demo
-
-**Live Demo:** https://drive.google.com/file/d/1txYQe-9fdneTsKxrTRHFISRlT5DCxqn9/view?usp=sharing
 
 ---
